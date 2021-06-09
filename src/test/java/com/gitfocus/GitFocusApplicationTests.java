@@ -1,0 +1,13 @@
+package com.gitfocus;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class GitFocusApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

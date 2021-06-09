@@ -1,0 +1,41 @@
+[INFO ] 2021-01-27 09:59:44.796 [restartedMain] GitFocusApplication - Starting GitFocusApplication on INCHCMLP02374 with PID 7464 (D:\AWS\Spring Boot\GitFocus_Service\target\classes started by PS00440590 in D:\AWS\Spring Boot\GitFocus_Service)
+[INFO ] 2021-01-27 09:59:44.867 [restartedMain] GitFocusApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-01-27 09:59:58.909 [restartedMain] PullCommitUIServiceImpl - PullCommitUIServiceImpl init
+[INFO ] 2021-01-27 10:00:00.815 [restartedMain] GitFocusApplication - Started GitFocusApplication in 17.74 seconds (JVM running for 34.86)
+[INFO ] 2021-01-27 10:00:44.588 [restartedMain] GitFocusApplication - Starting GitFocusApplication on INCHCMLP02374 with PID 27300 (D:\AWS\Spring Boot\GitFocus_Service\target\classes started by PS00440590 in D:\AWS\Spring Boot\GitFocus_Service)
+[INFO ] 2021-01-27 10:00:44.612 [restartedMain] GitFocusApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-01-27 10:00:51.992 [restartedMain] PullCommitUIServiceImpl - PullCommitUIServiceImpl init
+[INFO ] 2021-01-27 10:00:53.319 [restartedMain] GitFocusApplication - Started GitFocusApplication in 9.248 seconds (JVM running for 16.238)
+[INFO ] 2021-01-27 10:03:20.782 [restartedMain] GitFocusApplication - Starting GitFocusApplication on INCHCMLP02374 with PID 27300 (D:\AWS\Spring Boot\GitFocus_Service\target\classes started by PS00440590 in D:\AWS\Spring Boot\GitFocus_Service)
+[DEBUG] 2021-01-27 10:03:20.786 [restartedMain] GitFocusApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2021-01-27 10:03:20.787 [restartedMain] GitFocusApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-01-27 10:03:22.509 [restartedMain] PullCommitUIServiceImpl - PullCommitUIServiceImpl init
+[INFO ] 2021-01-27 10:03:22.843 [restartedMain] GitFocusApplication - Started GitFocusApplication in 2.115 seconds (JVM running for 165.761)
+[INFO ] 2021-01-27 10:04:51.578 [restartedMain] GitFocusApplication - Starting GitFocusApplication on INCHCMLP02374 with PID 27300 (D:\AWS\Spring Boot\GitFocus_Service\target\classes started by PS00440590 in D:\AWS\Spring Boot\GitFocus_Service)
+[DEBUG] 2021-01-27 10:04:51.582 [restartedMain] GitFocusApplication - Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+[INFO ] 2021-01-27 10:04:51.583 [restartedMain] GitFocusApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-01-27 10:04:53.048 [restartedMain] PullCommitUIServiceImpl - PullCommitUIServiceImpl init
+[INFO ] 2021-01-27 10:04:53.470 [restartedMain] GitFocusApplication - Started GitFocusApplication in 1.939 seconds (JVM running for 256.388)
+2021-01-27 12:33:33,903 INFO o.s.b.StartupInfoLogger [restartedMain] Starting GitFocusApplication on INCHCMLP02374 with PID 22344 (D:\AWS\Spring Boot\GitFocus_Service\target\classes started by PS00440590 in D:\AWS\Spring Boot\GitFocus_Service)
+2021-01-27 12:33:34,016 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-27 12:33:56,118 INFO c.g.d.u.i.PullCommitUIServiceImpl [restartedMain] PullCommitUIServiceImpl init
+2021-01-27 12:33:57,886 INFO o.s.b.StartupInfoLogger [restartedMain] Started GitFocusApplication in 25.948 seconds (JVM running for 47.02)
+2021-01-27 12:35:04,405 INFO o.s.b.StartupInfoLogger [restartedMain] Starting GitFocusApplication on INCHCMLP02374 with PID 22344 (D:\AWS\Spring Boot\GitFocus_Service\target\classes started by PS00440590 in D:\AWS\Spring Boot\GitFocus_Service)
+2021-01-27 12:35:04,410 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-27 12:35:06,052 INFO c.g.d.u.i.PullCommitUIServiceImpl [restartedMain] PullCommitUIServiceImpl init
+2021-01-27 12:35:06,408 INFO o.s.b.StartupInfoLogger [restartedMain] Started GitFocusApplication in 2.053 seconds (JVM running for 115.542)
+2021-02-04 17:07:49,301 INFO o.s.b.StartupInfoLogger [main] Starting GitFocusApplicationTests on INCHCMLP02131 with PID 2492 (started by SP00553980 in C:\Users\SP00553980\git\GitFocusService-docker)
+2021-02-04 17:07:49,352 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-02-04 17:08:13,253 INFO c.g.d.u.i.PullCommitUIServiceImpl [main] PullCommitUIServiceImpl init
+2021-02-04 17:08:19,666 INFO o.s.b.StartupInfoLogger [main] Started GitFocusApplicationTests in 32.106 seconds (JVM running for 59.966)
+2021-02-04 17:09:34,247 INFO o.s.b.StartupInfoLogger [restartedMain] Starting GitFocusApplication on INCHCMLP02131 with PID 2968 (C:\Users\SP00553980\git\GitFocusService-docker\target\classes started by SP00553980 in C:\Users\SP00553980\git\GitFocusService-docker)
+2021-02-04 17:09:34,264 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-02-04 17:09:57,384 INFO c.g.d.u.i.PullCommitUIServiceImpl [restartedMain] PullCommitUIServiceImpl init
+2021-02-04 17:09:59,714 INFO o.s.b.StartupInfoLogger [restartedMain] Started GitFocusApplication in 26.569 seconds (JVM running for 47.628)
+2021-02-04 17:52:03,179 INFO o.s.b.StartupInfoLogger [restartedMain] Starting GitFocusApplication on INCHCMLP02131 with PID 2968 (C:\Users\SP00553980\git\GitFocusService-docker\target\classes started by SP00553980 in C:\Users\SP00553980\git\GitFocusService-docker)
+2021-02-04 17:52:03,182 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-02-04 17:52:07,469 INFO c.g.d.u.i.PullCommitUIServiceImpl [restartedMain] PullCommitUIServiceImpl init
+2021-02-04 17:52:08,230 INFO o.s.b.StartupInfoLogger [restartedMain] Started GitFocusApplication in 5.36 seconds (JVM running for 2576.136)
+2021-02-04 17:52:49,999 INFO o.s.b.StartupInfoLogger [restartedMain] Starting GitFocusApplication on INCHCMLP02131 with PID 15996 (C:\Users\SP00553980\git\GitFocusService-docker\target\classes started by SP00553980 in C:\Users\SP00553980\git\GitFocusService-docker)
+2021-02-04 17:52:50,025 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-02-04 17:53:10,439 INFO c.g.d.u.i.PullCommitUIServiceImpl [restartedMain] PullCommitUIServiceImpl init
